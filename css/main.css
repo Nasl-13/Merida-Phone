@@ -1,0 +1,62 @@
+.navbar {
+    background-color: #000;
+    box-shadow: 2px 2px 5px rgb(209, 207, 207);
+    opacity: .9;
+}
+
+.navbar .nav-item .nav-link {
+    color: #000;
+    padding: auto;
+}
+
+/*.background-overlay {
+    position: absolute;
+    background: rgba(89, 238, 69, .7);
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}*/
+
+.footer {
+    background-color: #44bd32;
+}
+
+.team {
+
+}
+
+.border {
+    background-color: #CCC;
+    color: #44bd32;
+}
+
+.border-secondary {
+    background-color: #44bd32;
+    color: #CCC;
+}
+
+.carousel-inner {
+    max-width: 1280px 720px;
+}
+
+.col-md-6 {
+    margin-top: 150px;
+    align: center;
+}
+
+.section1 {
+    background-color: rgb(139, 228, 238);
+}
+
+.section2 {
+    background: #FF7195;
+}
+
+.section3 {
+    background: rgb(170, 241, 88);
+}
+
+.section4 {
+    background: rgb(154, 101, 240);
+}
